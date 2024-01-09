@@ -1,4 +1,8 @@
-<h1>
-Hello, i´m Alexis 🍎
-</h1>
-<p>Web Developer and i am currently a systems engineering student.</p>
+Hi 👋 My name is Alexis
+=======================
+
+I am currently a systems engineering student.
+---------------------------------------------
+
+*   🖥️  See my portfolio at [alexisbr.com](http://alexisbr.com)
+*   ✉️  You can contact me at [barajasalexisemmanuel@gmail.com](mailto:barajasalexisemmanuel@gmail.com)
