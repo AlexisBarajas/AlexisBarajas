@@ -1,4 +1,4 @@
 <h1>
-Hey, i´m Alexis
+Hello, i´m Alexis
 </h1>
-<p>Web developer</p>
+<p>Web Developer & Systems engineering student</p>
